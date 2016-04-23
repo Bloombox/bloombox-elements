@@ -1,0 +1,31 @@
+{
+  "name": "bloombox-elements",
+  "version": "0.0.1",
+  "description": "A set of custom elements expressing Bloombox proprietary UI",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "bloombox"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bloombox/bloombox-elements.git"
+  },
+  "dependencies": {
+    "bloombox-styles": "bloombox/bloombox-styles#master",
+    "bloombox-logo": "bloombox/bloombox-logo#master"
+  },
+  "homepage": "https://github.com/bloombox/bloombox-elements",
+  "authors": [
+    "Sam Gammon <sam@momentum.io>"
+  ],
+  "license": "Private, All Rights Reserved",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "bloombox-elements.html"
+}

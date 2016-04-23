@@ -1,0 +1,25 @@
+
+#
+# CircleCI - bloombox-elements
+#
+
+machine:
+  timezone: America/Los_Angeles
+
+  node:
+    version: 0.10.22
+
+dependencies:
+  override:
+    - npm install -g bower
+    - make dependencies BUILDBOT=1 CREDENTIALS=0
+  cache_directories:
+    - "bower_components"
+
+test:
+  override:
+    - make release BUILDBOT=1 CREDENTIALS=0
+
+general:
+  artifacts:
+    - "target/release.tar.gz"
