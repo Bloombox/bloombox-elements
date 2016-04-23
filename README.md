@@ -1,4 +1,4 @@
-# bloombox-elements  [![Circle CI](https://circleci.com/gh/bloombox/bloombox-elements.svg?style=svg)](https://circleci.com/gh/bloombox/bloombox-elements)
+# bloombox-elements  [![Circle CI](https://circleci.com/gh/Bloombox/bloombox-elements.svg?style=svg)](https://circleci.com/gh/Bloombox/bloombox-elements)
 
 Custom UI elements for Bloombox proprietary UI. Encapsulates Polymer elements intended for use on the web on desktop or mobile.
 
