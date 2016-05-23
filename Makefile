@@ -1,6 +1,6 @@
 
 #
-# - CostTree - bloombox-elements
+# - Bloombox - bloombox-elements
 #
 
 BUILDBOT ?= 0

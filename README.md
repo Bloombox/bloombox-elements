@@ -5,4 +5,4 @@ Custom UI elements for Bloombox proprietary UI. Encapsulates Polymer elements in
 ## Elements
 
 * [`bloombox-logo`](https://github.com/bloombox/bloombox-logo) - Encapsulates Bloombox's branding for reuse across apps and services.
-* [`bloombox-styles`](https://github.com/bloombox/bloombox-styles) - Provides common styling and theme CSS for CostTree elements and web properties.
+* [`bloombox-styles`](https://github.com/bloombox/bloombox-styles) - Provides common styling and theme CSS for Bloombox elements and web properties.
