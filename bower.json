@@ -12,8 +12,8 @@
     "url": "git://github.com/bloombox/bloombox-elements.git"
   },
   "dependencies": {
-    "bloombox-styles": "bloombox/bloombox-styles#master",
-    "bloombox-logo": "bloombox/bloombox-logo#master"
+    "bloombox-styles": "bloombox/bloombox-styles#^0.0.1",
+    "bloombox-logo": "bloombox/bloombox-logo#^0.0.1"
   },
   "homepage": "https://github.com/bloombox/bloombox-elements",
   "authors": [
