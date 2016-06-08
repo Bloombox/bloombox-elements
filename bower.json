@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "bloombox-styles": "bloombox/bloombox-styles#^0.0.1",
-    "bloombox-logo": "bloombox/bloombox-logo#^0.0.1"
+    "bloombox-logo": "bloombox/bloombox-logo#^0.0.1",
+    "bloombox-strain": "bloombox/bloombox-strain#^0.0.1"
   },
   "homepage": "https://github.com/bloombox/bloombox-elements",
   "authors": [
