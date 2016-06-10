@@ -15,8 +15,8 @@
     "bloombox-styles": "bloombox/bloombox-styles#^0.0.2",
     "bloombox-logo": "bloombox/bloombox-logo#^0.0.2",
     "bloombox-strain": "bloombox/bloombox-strain#^0.0.2",
-    "bloombox-pricelist": "bloombox/bloombox-pricelist#^0.0.1",
-    "bloombox-media": "bloombox/bloombox-media#^0.0.1"
+    "bloombox-pricelist": "bloombox/bloombox-pricelist#^0.0.2",
+    "bloombox-media": "bloombox/bloombox-media#^0.0.2"
   },
   "homepage": "https://github.com/bloombox/bloombox-elements",
   "authors": [
