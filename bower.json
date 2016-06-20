@@ -17,7 +17,7 @@
     "bloombox-strain": "bloombox/bloombox-strain#master",
     "bloombox-pricelist": "bloombox/bloombox-pricelist#^0.0.2",
     "bloombox-media": "bloombox/bloombox-media#master",
-    "bloombox-testing": "bloombox/bloombox-testing#^0.0.1",
+    "bloombox-testing": "bloombox/bloombox-testing#master",
     "bloombox-apothecary": "bloombox/bloombox-apothecary#master",
     "bloombox-cartridge": "bloombox/bloombox-cartridge#master",
     "bloombox-concentrate": "bloombox/bloombox-concentrate#master",
