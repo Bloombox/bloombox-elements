@@ -12,7 +12,7 @@
     "url": "git://github.com/bloombox/bloombox-elements.git"
   },
   "dependencies": {
-    "bloombox-styles": "bloombox/bloombox-styles#^0.0.2",
+    "bloombox-styles": "bloombox/bloombox-styles#master",
     "bloombox-logo": "bloombox/bloombox-logo#^0.0.2",
     "bloombox-strain": "bloombox/bloombox-strain#master",
     "bloombox-pricelist": "bloombox/bloombox-pricelist#^0.0.2",
