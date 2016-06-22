@@ -14,6 +14,7 @@
   "dependencies": {
     "bloombox-styles": "git@github.com:bloombox/bloombox-styles.git#master",
     "bloombox-logo": "git@github.com:bloombox/bloombox-logo.git#master",
+    "bloombox-product": "git@github.com:bloombox/bloombox-product.git#master",
     "bloombox-strain": "git@github.com:bloombox/bloombox-strain.git#master",
     "bloombox-pricelist": "git@github.com:bloombox/bloombox-pricelist.git#master",
     "bloombox-media": "git@github.com:bloombox/bloombox-media.git#master",
