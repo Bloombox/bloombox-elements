@@ -30,7 +30,8 @@
     "bloombox-menutools": "git@github.com:bloombox/bloombox-menutools.git#master",
     "bloombox-partner-info": "git@github.com:bloombox/bloombox-partner-info.git#master",
     "bloombox-profile": "git@github.com:bloombox/bloombox-profile.git#master",
-    "bloombox-settings": "git@github.com:bloombox/bloombox-settings.git#master"
+    "bloombox-settings": "git@github.com:bloombox/bloombox-settings.git#master",
+    "bloombox-user": "git@github.com:bloombox/bloombox-user.git#master"
   },
   "homepage": "https://github.com/bloombox/bloombox-elements",
   "authors": [

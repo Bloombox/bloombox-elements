@@ -4,7 +4,7 @@ Custom UI elements for Bloombox proprietary UI. Encapsulates Polymer elements in
 
 ## Elements
 
-* [`bloombox-account`](https://github.com/bloombox/bloombox-account) - Displays the currently logged-in user and their profile image.
+* [`bloombox-account`](https://github.com/bloombox/bloombox-account) - Displays info for the current partner-level account.
 * [`bloombox-apothecary`](https://github.com/bloombox/bloombox-apothecary) - Provides UI for creating and managing apothecary products, such as tinctures and topicals.
 * [`bloombox-cartridge`](https://github.com/bloombox/bloombox-cartridge) - Provides UI for creating and managing cartridge products.
 * [`bloombox-concentrate`](https://github.com/bloombox/bloombox-concentrate) - Provides UI for creating and managing concentrate products.
@@ -23,3 +23,4 @@ Custom UI elements for Bloombox proprietary UI. Encapsulates Polymer elements in
 * [`bloombox-strain`](https://github.com/bloombox/bloombox-strain) - Provides UI to create and manage strains of cannabis flowers.
 * [`bloombox-styles`](https://github.com/bloombox/bloombox-styles) - Provides common styling and theme CSS for Bloombox elements and web properties.
 * [`bloombox-testing`](https://github.com/bloombox/bloombox-testing) - Provides UI for displaying and editing product QA testing results.
+* [`bloombox-user`](https://github.com/bloombox/bloombox-user) - Displays the currently logged-in user and their profile image.
