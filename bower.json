@@ -26,12 +26,10 @@
     "bloombox-concentrate": "git@github.com:bloombox/bloombox-concentrate.git#master",
     "bloombox-edible": "git@github.com:bloombox/bloombox-edible.git#master",
     "bloombox-preroll": "git@github.com:bloombox/bloombox-preroll.git#master",
-    "bloombox-account": "git@github.com:bloombox/bloombox-account.git#master",
     "bloombox-device": "git@github.com:bloombox/bloombox-device.git#master",
     "bloombox-enroll": "git@github.com:bloombox/bloombox-enroll.git#master",
     "bloombox-menutools": "git@github.com:bloombox/bloombox-menutools.git#master",
     "bloombox-partner-info": "git@github.com:bloombox/bloombox-partner-info.git#master",
-    "bloombox-profile": "git@github.com:bloombox/bloombox-profile.git#master",
     "bloombox-settings": "git@github.com:bloombox/bloombox-settings.git#master",
     "bloombox-user": "git@github.com:bloombox/bloombox-user.git#master"
   },
