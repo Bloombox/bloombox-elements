@@ -12,6 +12,7 @@
     "url": "ssh://git@github.com:bloombox/bloombox-elements.git"
   },
   "dependencies": {
+    "bloombox-analytics-chart": "git@github.com:bloombox/bloombox-analytics-chart.git#master",
     "bloombox-styles": "git@github.com:bloombox/bloombox-styles.git#master",
     "bloombox-logo": "git@github.com:bloombox/bloombox-logo.git#master",
     "bloombox-icons": "git@github.com:bloombox/bloombox-icons.git#master",
