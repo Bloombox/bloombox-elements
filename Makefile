@@ -7,6 +7,7 @@ BUILDBOT ?= 0
 ENV ?= .env/
 TARGET ?= target/
 CREDENTIALS ?= 1
+VERSION ?= 0.0.5
 
 all: build
 	@echo "bloombox-elements is ready."
@@ -17,25 +18,37 @@ all: build
 #
 
 build: $(TARGET) $(ENV) dependencies
+	@mkdir -p $(TARGET)/
+	@cp -frv ./*.html ./bower.json ./README.md $(TARGET)/;
 	@echo "Project build complete."
+
+ifeq ($(BUILDBOT),yes)
+test:
+	wct --job-name "bloombox-elements" --expanded --build-number "$(BUILD_NUMBER)" --sauce-tunnel-id "$(SAUCE_TUNNEL)" --plugin wct-jenkins
+else
+test:
+	@wct --job-name "bloombox-elements"
+endif
+
+quickbuild:
+	@echo "Quickbuilding..."
+	@cp -fr ./*.html ./bower.json ./README.md $(TARGET)/;
 
 release: build
 	@echo "Building release package..."
-	@mkdir -p $(TARGET)/
-	@cp -frv ./bloombox-elements.html ./index.html ./bower.json ./README.md $(TARGET)/;
-	@tar -czvf release.tar.gz $(TARGET)/
-	@mv release.tar.gz $(TARGET)/
+	@cd $(TARGET) && tar -czvf ../$(VERSION).tar.gz *
 	@echo "Release ready."
 
 dependencies:
 	@echo "Installing project dependencies..."
+	@npm install
 	@bower install
 	@echo "Dependencies ready."
 
 clean:
 	@echo "Cleaning project..."
 	@find . -name .DS_Store -delete
-	@rm -frv $(TARGET)
+	@rm -frv $(TARGET) *.tar.gz
 
 distclean: clean
 	@echo "Resetting project..."
@@ -59,4 +72,4 @@ $(TARGET):
 	@mkdir -p $(TARGET)
 
 
-.PHONY: all build release dependencies clean distclean forceclean
+.PHONY: all build release dependencies clean distclean forceclean test
