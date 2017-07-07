@@ -33,7 +33,8 @@
     "bloombox-concentrate": "Bloombox/bloombox-concentrate",
     "bloombox-edible": "Bloombox/bloombox-edible",
     "bloombox-strain": "Bloombox/bloombox-strain",
-    "bloombox-preroll": "Bloombox/bloombox-preroll"
+    "bloombox-preroll": "Bloombox/bloombox-preroll",
+    "bloombox-merch": "Bloombox/bloombox-merch"
   },
   "homepage": "https://github.com/bloombox/bloombox-elements",
   "authors": [
