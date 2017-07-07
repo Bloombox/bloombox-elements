@@ -5,7 +5,7 @@ Custom UI elements for Bloombox proprietary UI. Encapsulates Polymer elements in
 ## Elements
 
 * [`bloombox-account`](https://github.com/bloombox/bloombox-account) - Displays info for the current partner-level account.
-* [`bloombox-apothecary`](https://github.com/bloombox/bloombox-apothecary) - Provides UI for creating and managing apothecary products, such as tinctures and topicals.
+* [`bloombox-apothecary`](https://github.com/bloombox/bloombox-apothecary) - Provides UI for creating and managing apothecary products.
 * [`bloombox-cartridge`](https://github.com/bloombox/bloombox-cartridge) - Provides UI for creating and managing cartridge products.
 * [`bloombox-concentrate`](https://github.com/bloombox/bloombox-concentrate) - Provides UI for creating and managing concentrate products.
 * [`bloombox-device`](https://github.com/bloombox/bloombox-device) - Shows current Bloombox device status.
@@ -14,6 +14,7 @@ Custom UI elements for Bloombox proprietary UI. Encapsulates Polymer elements in
 * [`bloombox-logo`](https://github.com/bloombox/bloombox-logo) - Encapsulates Bloombox's branding for reuse across apps and services.
 * [`bloombox-media`](https://github.com/bloombox/bloombox-media) - Provides product media preview and upload functionality.
 * [`bloombox-menutools`](https://github.com/bloombox/bloombox-menutools) - Provides tools for filtering and editing menu entries.
+* [`bloombox-merch`](https://github.com/bloombox/bloombox-merch) - Provides UI for managing merchandise products.
 * [`bloombox-partner-info`](https://github.com/bloombox/bloombox-partner-info) - Shows read-only partner account information in the dashboard.
 * [`bloombox-preroll`](https://github.com/bloombox/bloombox-preroll) - Provides UI for creating and managing pre-rolled joint products.
 * [`bloombox-pricelist`](https://github.com/bloombox/bloombox-pricelist) - Provides UI to display product prices, sometimes at standard weight values.
