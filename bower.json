@@ -48,5 +48,8 @@
     "test",
     "tests"
   ],
-  "main": "bloombox-elements.html"
+  "main": "bloombox-elements.html",
+  "resolutions": {
+    "paper-radio-group": "master"
+  }
 }
