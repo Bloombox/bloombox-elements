@@ -7,7 +7,7 @@ BUILDBOT ?= 0
 ENV ?= .env/
 TARGET ?= target/
 CREDENTIALS ?= 1
-VERSION ?= 0.0.12
+VERSION ?= 0.0.13
 
 all: build
 	@echo "bloombox-elements is ready."
