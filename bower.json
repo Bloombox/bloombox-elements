@@ -1,6 +1,6 @@
 {
   "name": "bloombox-elements",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "A set of custom elements expressing Bloombox proprietary UI",
   "keywords": [
     "web-components",
