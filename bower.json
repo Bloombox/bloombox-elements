@@ -31,6 +31,7 @@
     "bloombox-product": "git@github.com:Bloombox/bloombox-product.git#master",
     "bloombox-product-list": "git@github.com:Bloombox/bloombox-product-list.git#master",
     "bloombox-strain": "git@github.com:Bloombox/bloombox-strain.git#master",
+    "bloombox-storeconfig": "git@github.com:Bloombox/bloombox-storeconfig.git#master",
     "bloombox-styles": "git@github.com:Bloombox/bloombox-styles.git#master",
     "bloombox-testing": "git@github.com:Bloombox/bloombox-testing.git#master",
     "bloombox-tv": "git@github.com:Bloombox/bloombox-tv.git#master",
