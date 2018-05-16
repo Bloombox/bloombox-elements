@@ -51,6 +51,15 @@
   ],
   "main": "bloombox-elements.html",
   "resolutions": {
-    "paper-radio-group": "master"
+    "paper-radio-group": "master",
+    "bloombox-styles": "0.0.6",
+    "paper-styles": "^1.1.4",
+    "polymer": "^1.5.0",
+    "bloombox-product": "master",
+    "webcomponentsjs": "^0.7.24",
+    "bloombox-media": "master",
+    "bloombox-testing": "master",
+    "bloombox-pricelist": "master",
+    "bloombox-icons": "master"
   }
 }
